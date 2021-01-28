@@ -56,7 +56,7 @@ elif surpresa == 2:
     lado1 = input('Escolha o valor de um lado: ')
     lado1 = int(lado1)
     lado2 = input('Escolha o valor do outro lado: ')
-    lado2 = int(lado1)
+    lado2 = int(lado2)
     ret = Retangulo(lado1, lado2)
     ret.calcula()
 
